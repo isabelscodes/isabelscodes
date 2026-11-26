@@ -16,7 +16,31 @@
 <p align="center">
   <em>Turning ideas into thoughtful applications, one project at a time.</em>
 </p>
+---
 
+<h2 align="center">⌁ a little corner of code ⌁</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=2500&pause=700&color=79C982&center=true&vCenter=true&width=600&lines=%3E+initializing+isabel.exe...;%3E+loading+creative+ideas...;%3E+compiling+something+beautiful...;%3E+system+online+%E2%9C%93" alt="Terminal animation"/>
+</p>
+
+<p align="center">
+  <strong>01001001 01010011 01000001 01000010 01000101 01001100</strong>
+</p>
+
+<pre align="center">
+    /\_/\
+   ( o.o )    hello, world!
+    > ^ <
+
+  [ CODE ] [ CREATE ] [ REPEAT ]
+</pre>
+
+<p align="center">
+  <em>Somewhere between imagination and implementation ♡</em>
+</p>
+
+---
 ---
 
 <h2 align="center">♡ A Little About Me</h2>
