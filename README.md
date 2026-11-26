@@ -1,16 +1,16 @@
 ୨୧ Hello, I'm Isabel!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=82977F&center=true&vCenter=true&width=550&lines=Data+Science+Student+%E2%9C%BF;Aspiring+Software+Engineer;Building+AI-powered+applications;Always+learning+something+new+%E2%99%A1" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=22&duration=3000&pause=1000&color=56534F&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development+Enthusiast;Building+AI-powered+applications;Always+learning+and+creating+%E2%99%A1" alt="Introduction" />
 </p>
 
 <p align="center">
-  <em>୨୧ A little creativity, a little code, and a lot of curiosity. ୨୧</em>
+  <em>Creating, experimenting, and turning ideas into something meaningful.</em>
 </p>
 
 ₊˚⊹ About Me
 
-Hi! I'm Isabel, a Data Science student interested in software engineering, artificial intelligence, and building applications that solve real-world problems.
+Hi! I'm Isabel, a Computer Science student focused on software development, artificial intelligence, and building practical but creative applications.
 
 ♡ Studying Computer Science
 
