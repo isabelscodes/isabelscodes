@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=21&duration=3000&pause=1200&color=777481&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Building+AI-powered+applications;Learning%2C+creating%2C+and+growing+%E2%99%A1" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=21&duration=3000&pause=1200&color=79C982&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Building+AI-powered+applications;Learning%2C+creating%2C+and+growing+%E2%99%A1" alt="Animated introduction"/>
 </p>
 
 <p align="center">
