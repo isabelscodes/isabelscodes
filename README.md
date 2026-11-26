@@ -1,10 +1,14 @@
 ୨୧ Hello, I'm Isabel!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=22&duration=3000&pause=1000&color=56534F&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development+Enthusiast;Building+AI-powered+applications;Always+learning+and+creating+%E2%99%A1" alt="Introduction" />
+  <img src="assets/profile-banner.png" alt="Cozy illustrated coding desk with a laptop, cat, books, and a sunny countryside view" width="100%" />
+</p><h1 align="center">Isabel ♡</h1><p align="center">
+  <strong>COMPUTER SCIENCE · SOFTWARE DEVELOPMENT</strong>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&duration=3000&pause=1000&color=777481&center=true&vCenter=true&width=650&lines=Computer+Science+student;Aspiring+software+engineer;Building+AI-powered+applications;Always+learning+and+creating+%E2%99%A1" alt="Typing introduction" />
+</p><p align="center">
+  <em>Building thoughtful applications, exploring AI, and turning ideas into reality.</em>
 </p>
-
-<p align="center">
   <em>Creating, experimenting, and turning ideas into something meaningful.</em>
 </p>
 
