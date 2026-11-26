@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Cozy illustrated coding desk with a laptop, cat, books, and a sunny countryside view" width="100%" />
+  <img src="profile-banner.png" alt="Cozy illustrated coding desk with a laptop, cat, books, and a sunny countryside view" width="100%" />
 </p>
 
 <h1 align="center">Isabel ♡</h1>
