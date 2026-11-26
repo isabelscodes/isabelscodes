@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=2500&pause=900&color=79C982&center=true&vCenter=true&width=650&lines=%3E+hello%2C+world...;%3E+initializing+isabel.exe;%3E+building+something+new;%3E+system+online+%E2%9C%93" />
 </p>
----
+
 
 <h2 align="center">♡ A Little About Me</h2>
 
